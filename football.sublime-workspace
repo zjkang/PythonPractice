@@ -1,0 +1,1446 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mat",
+				"matchesId"
+			],
+			[
+				"ma",
+				"matches"
+			],
+			[
+				"te",
+				"teams"
+			],
+			[
+				"utf",
+				"utf8"
+			],
+			[
+				"ut",
+				"utf8"
+			],
+			[
+				"u",
+				"utf8"
+			],
+			[
+				"team",
+				"teamTable"
+			],
+			[
+				"create",
+				"create_table_match"
+			],
+			[
+				"sel",
+				"select_teams_by_country"
+			],
+			[
+				"s",
+				"sqlite3"
+			],
+			[
+				"db",
+				"dbname"
+			],
+			[
+				"foo",
+				"football_link"
+			],
+			[
+				"odd",
+				"odds_after"
+			],
+			[
+				"o",
+				"odds_after"
+			],
+			[
+				"odds_b",
+				"odds_before_lose"
+			],
+			[
+				"sc",
+				"score_away"
+			],
+			[
+				"tea",
+				"team_away"
+			],
+			[
+				"find",
+				"findWords"
+			],
+			[
+				"is",
+				"isPalindrome"
+			],
+			[
+				"List",
+				"ListNode"
+			],
+			[
+				"exist",
+				"existHelper"
+			],
+			[
+				"strin",
+				"stringstream"
+			],
+			[
+				"sum",
+				"sumNumbersHelper"
+			],
+			[
+				"symmet",
+				"symmetricHelper"
+			],
+			[
+				"fin",
+				"findKthSortedArrays"
+			],
+			[
+				"ex",
+				"existHelper"
+			],
+			[
+				"miss",
+				"miss_or_dup"
+			],
+			[
+				"mi",
+				"miss_XOR_dup"
+			],
+			[
+				"n",
+				"numeric_limits"
+			],
+			[
+				"B_k",
+				"B_k_x_1"
+			],
+			[
+				"prefix",
+				"prefix_sum"
+			],
+			[
+				"search_sma",
+				"search_smallest_helper"
+			],
+			[
+				"search",
+				"search_smallest_helper"
+			],
+			[
+				"sear",
+				"search_smallest_helper"
+			],
+			[
+				"left",
+				"left2right"
+			],
+			[
+				"max",
+				"maxPath"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"pre",
+				"prev_xaxis"
+			],
+			[
+				"E",
+				"Endpoint"
+			],
+			[
+				"re",
+				"replaceParentChildLink"
+			],
+			[
+				"rebu",
+				"rebuild_BST_from_postorder_helper"
+			],
+			[
+				"rebuild_BST",
+				"rebuild_BST_from_postorder_helper"
+			],
+			[
+				"min",
+				"minLength"
+			],
+			[
+				"m",
+				"max_multiplier"
+			],
+			[
+				"so",
+				"sortList"
+			],
+			[
+				"new",
+				"newNode"
+			],
+			[
+				"k",
+				"k_elements"
+			],
+			[
+				"find_k_l",
+				"find_k_largest_in_BST_helper"
+			],
+			[
+				"no",
+				"normalized_path"
+			],
+			[
+				"Tra",
+				"TrafficElement"
+			],
+			[
+				"eval",
+				"eval_stack"
+			],
+			[
+				"eva",
+				"eval_stack"
+			],
+			[
+				"build",
+				"buildings_with_sunset"
+			],
+			[
+				"Random",
+				"RandomListNode"
+			],
+			[
+				"a",
+				"append_node_and_advance"
+			],
+			[
+				"BST",
+				"BST_to_doubly_lists"
+			],
+			[
+				"B",
+				"BinarySearchTree"
+			],
+			[
+				"BS",
+				"BST_to_doubly_list"
+			],
+			[
+				"bui",
+				"build_BST_from_sorted_doubly_list_helper"
+			],
+			[
+				"b",
+				"build_BST_from_sorted_doubly_list_helper"
+			],
+			[
+				"Bin",
+				"BinaryTree"
+			],
+			[
+				"Bi",
+				"BinaryTree"
+			],
+			[
+				"Bina",
+				"BinarySearchTree"
+			],
+			[
+				"Node",
+				"node_t"
+			],
+			[
+				"has",
+				"has_cycle"
+			],
+			[
+				"not",
+				"node_t"
+			],
+			[
+				"node",
+				"node_t"
+			],
+			[
+				"advance",
+				"advance_list_by_k"
+			],
+			[
+				"larg",
+				"larger_index"
+			],
+			[
+				"ea",
+				"erase"
+			],
+			[
+				"recon",
+				"reconstruct_pre_in_orders_helper"
+			],
+			[
+				"get",
+				"getShortestUniquePrefix"
+			],
+			[
+				"connect_",
+				"connect_leaves_helper"
+			],
+			[
+				"connect",
+				"connect_leaves_helper"
+			],
+			[
+				"conver",
+				"convert_tree_to_doubly_list"
+			],
+			[
+				"num",
+				"numChildrenLocks"
+			],
+			[
+				"find_non",
+				"find_non_k_balanced_node_helper"
+			],
+			[
+				"issy",
+				"is_symetric_tree_helper"
+			],
+			[
+				"Binary",
+				"BinaryTree"
+			],
+			[
+				"compare_k_th_largest",
+				"compare_k_th_largest_heap_helper"
+			],
+			[
+				"compare_",
+				"compare_k_th_largest_heap_helper"
+			],
+			[
+				"key",
+				"keyword"
+			],
+			[
+				"c",
+				"clock"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 2628,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "soccer/soccer.py",
+			"settings":
+			{
+				"buffer_size": 4854,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "soccer/db.sql",
+			"settings":
+			{
+				"buffer_size": 1242,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "soccer/_sqlite3_help.md",
+			"settings":
+			{
+				"buffer_size": 62,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"latex",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Add Channel"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"ins",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"intall",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/zhengjiankang/Desktop/course/jin_xin/soccer/_sqlite3_help.md",
+		"/Users/zhengjiankang/Desktop/course/jin_xin/soccer/db.sql",
+		"/Users/zhengjiankang/Desktop/course/jin_xin/footballDB.py",
+		"/Users/zhengjiankang/Desktop/course/jin_xin/crawler.py",
+		"/Users/zhengjiankang/Desktop/course/jin_xin/web_crawler.py",
+		"/Users/zhengjiankang/Desktop/course/jin_xin/web_crawler-0.py",
+		"/Users/zhengjiankang/Desktop/course/jin_xin/web_crawler-2.py",
+		"/Users/zhengjiankang/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/zhengjiankang/Desktop/course/jin_xin/games.py",
+		"/Users/zhengjiankang/Desktop/course/jin_xin/README.md",
+		"/Users/zhengjiankang/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/zhengjiankang/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/zhengjiankang/test.py",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/Main.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/thesis_bibliography.bib",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/2016 TIP MultiScale/tip_bibliography.bib",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/MultiScaleTracker/MultiScaleTracker.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/2016 TIP MultiScale/_multiScale.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/MultiTaskTracker/MultiTaskTracker.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/Introduction/Introduction.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/HoughTracker/HoughTracker.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/Main.lof",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/rac.sty",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/Contribution/Contribution.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/Contribution/Contribution.aux",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/Prechapter/abstract.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/Conclusion/Conclusion.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/Prechapter/acknowledge.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/Prechapter/dedication.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/Prechapter/vita.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/Prechapter/title.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/Prechapter/titleCover.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/Prechapter/micropage.tex",
+		"/C/Users/kang/AppData/Roaming/Sublime Text 2/Packages/User/LaTeXTools.sublime-settings",
+		"/C/Users/kang/AppData/Roaming/Sublime Text 2/Packages/LaTeXTools/LaTeX.sublime-build",
+		"/C/Users/kang/AppData/Roaming/Sublime Text 2/Packages/LaTeXTools/LaTeX.sublime-build.OLD",
+		"/C/Users/kang/AppData/Roaming/Sublime Text 2/Packages/LaTeXTools/LaTeX.sublime-commands",
+		"/C/Users/kang/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/kang/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/K/Dropbox/research_papers/PHD Writing/PHD论文/thesis/Conclusion/Conclusion.tex",
+		"/K/Dropbox/research_papers/PHD Writing/PHD论文/thesis/MultiScaleTracker/MultiScaleTracker.tex",
+		"/K/Dropbox/research_papers/PHD Writing/PHD论文/thesis/Main.tex",
+		"/K/Dropbox/research_papers/PHD Writing/PHD论文/thesis/thesis_bibliography.bib",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/MultiScaleTrack/MultiScaleTracker.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/HoughTrack/HoughTracker.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/polythesis.cls",
+		"/Users/zhengjiankang/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/MultiTaskTrack/MultiTaskTracker.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/4.MultiTaskTrack/MultiTaskTracker.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/2.HoughTrack/HoughTracker.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/1.Introduction/Introduction.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/3.MultiScaleTrack/MultiScaleTracker.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/3.MultiScaleTrack/Twitter2.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/Main.bbl",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/refs.bib",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/2.HoughTrack/HoughTrack.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/PHD Writing/PHD论文/thesis/2.HoughTrack/Twitter.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/0.Prechapter/committee.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/0.Prechapter/acknowledge.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/0.Prechapter/abstract.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/0.Prechapter/dedication.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/0.Prechapter/vita.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/0.Prechapter/micropage.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/0.Prechapter/title.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/0.Prechapter/titleCover.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/WeChat/WeChat.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/research",
+		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/untitled.sublime-project",
+		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/Main.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/Prechapter/committee.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 Thesis/thesis/thesisPhD",
+		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2016 tip/main.aux",
+		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2016 tip/main.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2016 tip/refs.bib",
+		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2016 tip/main.bbl",
+		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2014 icip/icip/main-06-08-2014-kang-final-version-1.tex",
+		"/Users/zhengjiankang/Dropbox/research_papers/phd_writing/2015 tip/IEEEtran.bst",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Search & Sorting/-_Search_K-th Largest Element Large-n-and-Small-k.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Search & Sorting/Search_K-th Largest Element.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Search & Sorting/-_Sort_Union Of Intervals.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-LinkedList/Add Two Number.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/N-Queens II.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/N-Queens I.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-LinkedList/Intersection Of Two LinkedList.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Stack & Queue & Heap & Hash/**_G4G_Sort Nearly Sorted Array.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Stack & Queue & Heap & Hash/Heap Implementation.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-LinkedList/-_Intersection Of Two LinkedList.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Search & Sorting/Find Minimumin Rotated Sorted Array II.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Search & Sorting/Find Minimumin Rotated Sorted Array I.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Search & Sorting/Find Peak Element.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Search & Sorting/Find Minimumin Rotated Sorted Array.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Stack & Queue & Heap & Hash/Hash Implementation.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Array-String-Primitive/Anagrams.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Array-String-Primitive/Regular Expression II - Wildcard.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Array-String-Primitive/Regular Expression I.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Array-String-Primitive/Reverse Words In A String I.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Array-String-Primitive/Reverse Words In A String II.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Array-String-Primitive/Read N Characters Given Read4.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Array-String-Primitive/Math - Divide Integer.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Array-String-Primitive/Repeated DNA Sequences.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Array-String-Primitive/Math - Add Binary.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Array-String-Primitive/Text Justification.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Array-String-Primitive/Candy.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Array-String-Primitive/Reverse Words In A String.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Array-String-Primitive/Max Points On Line.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Word Ladder II.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Word Ladder I.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Word Search II.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Word Search I.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Task Scheduling.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Surround Regions.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Sudoku Solver.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Sudoku Valid.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Restore IP Addresses.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Clone Graph.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-DP/Dungeon Game.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Subset II.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Subset I.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Permutations II.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Permutations I.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Permutation Sequence.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Permutation Next.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Number Of Islands.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-DP/Longest Common Subsequence.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Combinations.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Combination Sum II.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Combination Sum I.cpp",
+		"/Users/zhengjiankang/Dropbox/jobHunting/Kang_Zhengjian/面试准备/算法题/-Graph/Generate Parentheses.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"insert_table_match",
+			"insert_table_team",
+			"insert_table_teams",
+			"create_table_team",
+			"create_table_teams",
+			"teamsTable",
+			"create_table_teams",
+			"sqlite3",
+			"alignment",
+			"Tracking",
+			"strucutre",
+			"Mei",
+			"regularization",
+			"Aharon06",
+			"Bakenko11",
+			"Jia12",
+			"Ross08",
+			"liu13",
+			"Mei09",
+			"Zhang12",
+			"correct",
+			"rac",
+			"Rathi05",
+			"LST",
+			"exp:res_2",
+			"exp:res_1",
+			"multiScaleTrack",
+			"Caselles",
+			"chan",
+			"Adam06",
+			"Hough",
+			"Nejhum",
+			"machine",
+			"CON",
+			"Computer",
+			"Color-Based Proba-\nComputer",
+			"Color-Based Proba-\nEuropean",
+			"Color-Based Proba-\nbilistic Tracking",
+			"Zhengjian",
+			"Image",
+			"Vision",
+			"Tracking",
+			"Bootstrapping",
+			"structure",
+			"Matthews",
+			"Structure",
+			"struct",
+			"structure",
+			"Jepson",
+			"Forests",
+			"f",
+			"forest",
+			"online",
+			"random",
+			"eu",
+			"e",
+			"eu",
+			"europ",
+			"ensemble",
+			"Hare",
+			"action",
+			"Lee",
+			"liu",
+			"zhong",
+			"kang",
+			"YANG",
+			"liu",
+			"AlexNote",
+			"node_t",
+			"isInterleaveRe",
+			"isScrambleRe",
+			"pathSumRe",
+			"isBalancedRe",
+			"buildTreeRe",
+			"flattenRe",
+			"sortedListToBSTRe",
+			"result",
+			"solveNQueensRe",
+			"subsetHelper",
+			"exist_helper",
+			"combinationSum2Re",
+			"combinationSumRe",
+			"solveSudokuRe",
+			"j",
+			"i",
+			"trap",
+			";\n",
+			"res",
+			"\n",
+			"max_heap",
+			"min_heap",
+			"emplace",
+			"sol",
+			"res",
+			" \n",
+			"\nvoid left_boundary_b_tree(const BinaryTree* root, )\n{  \n  if (root) {\n    if (isBoundary || (!root->left && !root->right)) {\n      cout << root->data << ' ';\n    }\n  left_boundary_b_tree(root->left, isBoundary);\n\n\n}",
+			"  void lock() \n  {\n    if (numChildrenLocks == 0 locked == false) {\n      BinaryTreeLock* n = parent;\n      while (n) {\n        if (n->locked == true) {\n          return;\n        }\n        n = n->parent;\n      }\n\n    locked = true;\n    n = parent;\n    while (n) {\n      n->numChildrenLocks++;\n      n = n->parent;\n    }\n  }",
+			"get_height",
+			"eq",
+			"}$.",
+			"table",
+			"Baiyang Liu",
+			"representation",
+			"etal",
+			"zhong",
+			"keys_used",
+			"/\n",
+			"3342 3032",
+			"3342"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"Aharon2006",
+			"Bakenko2011",
+			"Jia2012",
+			"Ross2008",
+			"Liu2013",
+			"Mei2009",
+			"Zhang2012",
+			"exp:houghTracker:res_2",
+			"exp:houghTracker:res_1",
+			"multiScaleTracker",
+			"ListNode",
+			"isInterleaveHelper",
+			"isScrambleHelper",
+			"pathSumHelper",
+			"isBalancedHelper",
+			"buildTreeHelper",
+			"flattenHelper",
+			"sortedListToBSTHelper",
+			"steps",
+			"solveNQueensHelper",
+			"subsetsWithDupHelper",
+			"existHelper",
+			"combinationSum2Helper",
+			"combinationSumHelper",
+			"solveSudokuHelper",
+			"end",
+			"start",
+			"result",
+			"L",
+			"H",
+			"push_back",
+			"onePath",
+			"result",
+			"3242 3032",
+			"3242"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 2628,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2336,
+								2397
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1816.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "soccer/soccer.py",
+					"settings":
+					{
+						"buffer_size": 4854,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4302,
+								4302
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 21.0,
+						"translation.y": 991.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "soccer/db.sql",
+					"settings":
+					{
+						"buffer_size": 1242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								595,
+								595
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQL/SQL.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 213.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "soccer/_sqlite3_help.md",
+					"settings":
+					{
+						"buffer_size": 62,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 202.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"num",
+				"Graph/Number Of Islands.cpp"
+			],
+			[
+				"number",
+				"-Array-String-Primitive/Largest Number.cpp"
+			],
+			[
+				"",
+				"-Array-String-Primitive/Isomorphic Strings.cpp"
+			],
+			[
+				"isomorphic",
+				"-Array-String-Primitive/Isomorphic Strings.cpp"
+			],
+			[
+				"recta",
+				"Stack & Queue & Heap & Hash/Rectangle Largest Histogram.cpp"
+			],
+			[
+				"distance",
+				"DP/Edit Distance One.cpp"
+			],
+			[
+				"one",
+				"DP/Edit Distance One.cpp"
+			],
+			[
+				"2",
+				"Array-String-Primitive/2Sum I.cpp"
+			],
+			[
+				"sqrt",
+				"Array-String-Primitive/Math - Sqrt(x).cpp"
+			],
+			[
+				"remove",
+				"-LinkedList/Remove Duplicates From Sorted List II.cpp"
+			],
+			[
+				"reverse",
+				"Array-String-Primitive/Reverse Words In A String.cpp"
+			],
+			[
+				"rectangle",
+				"算法题/-Stack & Queue & Heap & Hash/Rectangle Largest Histogram.cpp"
+			],
+			[
+				"merge",
+				"算法题/-LinkedList/Merge Sort List.cpp"
+			],
+			[
+				"mer",
+				"算法题/重点面试题 copy/Merge Sort List.cpp"
+			],
+			[
+				"roman",
+				"算法题/Tao/RomantoInteger.cpp"
+			],
+			[
+				"bip",
+				"算法题/-Graph/-EPI_GRAPH_Bipartite_2-Colorable.cpp"
+			],
+			[
+				"bipartite",
+				"算法题/-Graph/-EPI_GRAPH_Bipartite_2-Colorable.cpp"
+			],
+			[
+				"com",
+				"算法题/-Graph/Combination Sum II.cpp"
+			],
+			[
+				"combi",
+				"算法题/-Graph/Combination Sum I.cpp"
+			],
+			[
+				"plus",
+				"算法题/-Array-String-Primitive/Math - Plus One.cpp"
+			],
+			[
+				"histo",
+				"算法题/重点面试题 copy/Rectangle Largest Histogram.cpp"
+			],
+			[
+				"palindrom",
+				"算法题/-Array-String-Primitive/Palindrom Valid String.cpp"
+			],
+			[
+				"trap",
+				"算法题/重点面试题 copy/Water Trap.cpp"
+			],
+			[
+				"vali",
+				"Array-String-Primitive/**_Valid Number.cpp"
+			],
+			[
+				"sum",
+				"-Array-String-Primitive/*_Sum2.cpp"
+			],
+			[
+				"maxarray",
+				"algorithm-leetcode/dp/052_MaximumSubarray.cpp"
+			],
+			[
+				"max",
+				"algorithm-leetcode/085_MaximalRectangle.cpp"
+			],
+			[
+				"wild",
+				"algorithm-leetcode/043_WildcardMatching.cpp"
+			],
+			[
+				"simply",
+				"algorithm-leetcode/071_SimplifyPath.cpp"
+			],
+			[
+				"maxi",
+				"algorithm-leetcode/085_MaximalRectangle.cpp"
+			],
+			[
+				"sing",
+				"algorithm-leetcode/137_SingleNumberII.cpp"
+			],
+			[
+				"scramble",
+				"algorithm-leetcode/dp/087_ScrambleString.cpp"
+			],
+			[
+				"binary",
+				"algorithm-leetcode/tree/145_BinaryTreePostorderTraversal.cpp"
+			],
+			[
+				"interl",
+				"algorithm-leetcode/dp/097_InterleavingString.cpp"
+			],
+			[
+				"unique",
+				"algorithm-leetcode/tree/096_UniqueBinarySearchTreesII.cpp"
+			],
+			[
+				"convert",
+				"algorithm-leetcode/linked list/109_ConvertSortedListtoBinarySearchTree.cpp"
+			],
+			[
+				"fla",
+				"algorithm-leetcode/linked list/114_FlattenBinaryTreetoLinkedList.cpp"
+			],
+			[
+				"sqr",
+				"algorithm-epi/08_09_ComputingSquareRoots.cpp"
+			],
+			[
+				"binarytree",
+				"algorithm-leetcode/tree/094_BinaryTreeInorderTraversal.cpp"
+			],
+			[
+				"word",
+				"algorithm-leetcode/dp/127_WordLadderII.cpp"
+			],
+			[
+				"long",
+				"algorithm-leetcode/dp/005_LongestPalindromSubstr.cpp"
+			],
+			[
+				"maximal",
+				"algorithm-leetcode/085_MaximalRectangle.cpp"
+			],
+			[
+				"string",
+				"algorithm-leetcode/dp/087_ScrambleString.cpp"
+			],
+			[
+				"best",
+				"algorithm-leetcode/123_BestTimetoBuyandSellStockIII.cpp"
+			],
+			[
+				"maximumsu",
+				"algorithm-leetcode/dp/052_MaximumSubarray.cpp"
+			],
+			[
+				"maximu",
+				"algorithm-leetcode/tree/104_MaximumDepthofBinaryTree.cpp"
+			],
+			[
+				"regre",
+				"algorithm-leetcode/010_RegularExpressionMatching.cpp"
+			],
+			[
+				"mini",
+				"algorithm-leetcode/111_MinimumDepthofBinaryTree.cpp"
+			],
+			[
+				"lar",
+				"algorithm-leetcode/084_LargestRectangleinHistogram.cpp"
+			],
+			[
+				"pas",
+				"algorithm-leetcode/dp/118_Pascal'sTriangle.cpp"
+			],
+			[
+				"sort",
+				"algorithm-leetcode/148_SortList.cpp"
+			],
+			[
+				"graph",
+				"algorithm-leetcode/133_Clone Graph.cpp"
+			],
+			[
+				"reorder",
+				"algorithm-leetcode/linked list/143_ReorderList.cpp"
+			],
+			[
+				"str",
+				"algorithm-leetcode/027_ImplementstrStr().cpp"
+			],
+			[
+				"parti",
+				"algorithm-leetcode/086_PartitionList.cpp"
+			],
+			[
+				"sudo",
+				"algorithm-leetcode/complete/036_SudokuSolver*.cpp"
+			],
+			[
+				"mul",
+				"algorithm-leetcode/complete/042_MultiplyStrings*.cpp"
+			],
+			[
+				"palin",
+				"algorithm-leetcode/complete/132_PalindromePartitioningII*.cpp"
+			],
+			[
+				"gray",
+				"algorithm-leetcode/complete/089_GrayCode**.cpp"
+			],
+			[
+				"can",
+				"algorithm-leetcode/complete/135_Candy*.cpp"
+			],
+			[
+				"bina",
+				"algorithm-leetcode/complete/145_BinaryTreePostorderTraversal*.cpp"
+			],
+			[
+				"binar",
+				"algorithm-leetcode/complete/144_BinaryTreePreorderTraversal*.cpp"
+			],
+			[
+				"inter",
+				"algorithm-leetcode/complete/097_InterleavingString*.cpp"
+			],
+			[
+				"l",
+				"algorithm-leetcode/complete/146_LRUCache*.cpp"
+			],
+			[
+				"addbi",
+				"algorithm-leetcode/complete/065_AddBinary*.cpp"
+			],
+			[
+				"scra",
+				"algorithm-leetcode/complete/087_ScrambleString**.cpp"
+			],
+			[
+				"search",
+				"algorithm-leetcode/complete/034_SearchInsertPosition*.cpp"
+			],
+			[
+				"reor",
+				"algorithm-leetcode/complete/143_ReorderList*.cpp"
+			],
+			[
+				"balan",
+				"algorithm-leetcode/complete/110_BalancedBinaryTree*.cpp"
+			],
+			[
+				"valid",
+				"algorithm-leetcode/complete/098_ValidateBinarySearchTree*.cpp"
+			],
+			[
+				"clo",
+				"algorithm-leetcode/complete/133_Clone Graph*.cpp"
+			],
+			[
+				"miss",
+				"algorithm-leetcode/complete/040_FirstMissingPositive*.cpp"
+			],
+			[
+				"fin",
+				"algorithm-epi/8_15_FindAMissingElement.cpp"
+			],
+			[
+				"words",
+				"algorithm-leetcode/complete/151_ReverseWordsInAString*.cpp"
+			],
+			[
+				"sub",
+				"algorithm-leetcode/complete/078_Subsets*.cpp"
+			],
+			[
+				"rotate",
+				"algorithm-leetcode/complete/060_RotateList*.cpp"
+			],
+			[
+				"sp",
+				"algorithm-leetcode/complete/053_SpiralMatrix*.cpp"
+			],
+			[
+				"set",
+				"algorithm-leetcode/complete/073_SetMatrixZeroes*.cpp"
+			],
+			[
+				"combin",
+				"algorithm-leetcode/complete/038_CombinationSum*.cpp"
+			],
+			[
+				"dis",
+				"algorithm-leetcode/complete/115_DistinctSubsequences*.cpp"
+			],
+			[
+				"root",
+				"algorithm-leetcode/complete/129_SumRoottoLeafNumbers*.cpp"
+			],
+			[
+				"jump",
+				"algorithm-leetcode/complete/044_JumpGameII*.cpp"
+			],
+			[
+				"pow",
+				"algorithm-leetcode/complete/049_Pow(x,n)*.cpp"
+			],
+			[
+				"coun",
+				"algorithm-leetcode/complete/037_CountandSay*.cpp"
+			],
+			[
+				"tri",
+				"algorithm-leetcode/complete/120_Triangle*.cpp"
+			],
+			[
+				"pa",
+				"algorithm-leetcode/complete/119_Pascal'sTriangleII*.cpp"
+			],
+			[
+				"ana",
+				"algorithm-leetcode/complete/048_Anagrams*.cpp"
+			],
+			[
+				"trian",
+				"algorithm-leetcode/complete/120_Triangle*.cpp"
+			],
+			[
+				"sym",
+				"algorithm-leetcode/complete/101_SymmetricTree*.cpp"
+			],
+			[
+				"remo",
+				"algorithm-leetcode/complete/081_RemoveDuplicatesfromSortedArrayII*.cpp"
+			],
+			[
+				"single",
+				"algorithm-leetcode/complete/137_SingleNumberII*.cpp"
+			],
+			[
+				"remover",
+				"algorithm-leetcode/complete/081_RemoveDuplicatesfromSortedArrayII*.cpp"
+			],
+			[
+				"sear",
+				"algorithm-leetcode/complete/034_SearchInsertPosition*.cpp"
+			],
+			[
+				"g",
+				"algorithm-leetcode/complete/021_GenerateParentheses*.cpp"
+			],
+			[
+				"va",
+				"algorithm-leetcode/complete/020_ValidParentheses*.cpp"
+			],
+			[
+				"uni",
+				"algorithm-leetcode/complete/061_UniquePaths*.cpp"
+			],
+			[
+				"rem",
+				"algorithm-leetcode/complete/019_RemoveNthNodeFromEndofList*.cpp"
+			],
+			[
+				"imp",
+				"algorithm-leetcode/complete/027_ImplementstrStr()**.cpp"
+			],
+			[
+				"n",
+				"algorithm-leetcode/051_N-QueensII.cpp"
+			],
+			[
+				"copy",
+				"algorithm-leetcode/138_CopyListwithRandomPointer.cpp"
+			],
+			[
+				"wil",
+				"algorithm-leetcode/043_WildcardMatching.cpp"
+			],
+			[
+				"res",
+				"algorithm-leetcode/093_RestoreIPAddresses.cpp"
+			],
+			[
+				"reg",
+				"algorithm-leetcode/010_RegularExpressionMatching.cpp"
+			],
+			[
+				"letter",
+				"algorithm-leetcode/018_LetterCombinationsofaPhoneNumber.cpp"
+			],
+			[
+				"lon",
+				"algorithm-leetcode/031_LongestValidParentheses.cpp"
+			],
+			[
+				"gas",
+				"algorithm-leetcode/134_GasStation.cpp"
+			],
+			[
+				"palindrome",
+				"algorithm-leetcode/131_PalindromePartitioning.cpp"
+			],
+			[
+				"surr",
+				"algorithm-leetcode/130_SurroundedRegions.cpp"
+			],
+			[
+				"de",
+				"algorithm-leetcode/090_DecodeWays.cpp"
+			],
+			[
+				"maxr",
+				"algorithm-leetcode/085_MaximalRectangle.cpp"
+			],
+			[
+				"text",
+				"algorithm-leetcode/068_TextJustification.cpp"
+			],
+			[
+				"mult",
+				"algorithm-leetcode/042_MultiplyStrings.cpp"
+			],
+			[
+				"sudoku",
+				"algorithm-leetcode/036_SudokuSolver.cpp"
+			],
+			[
+				"substring",
+				"algorithm-leetcode/029_SubstringwithConcatenationofAllWords.cpp"
+			],
+			[
+				"strs",
+				"algorithm-leetcode/027_ImplementstrStr().cpp"
+			],
+			[
+				"regu",
+				"algorithm-leetcode/010_RegularExpressionMatching.cpp"
+			],
+			[
+				"median",
+				"algorithm-leetcode/002_Median2SortedArray.cpp"
+			],
+			[
+				"distin",
+				"algorithm-leetcode/115_DistinctSubsequences.cpp"
+			],
+			[
+				"popu",
+				"algorithm-leetcode/117_PopulatingNextRightPointersinEachNodeII.cpp"
+			],
+			[
+				"sim",
+				"algorithm-leetcode/071_SimplifyPath.cpp"
+			],
+			[
+				"zi",
+				"algorithm-leetcode/006_ZigZagConversion.cpp"
+			],
+			[
+				"cand",
+				"algorithm-leetcode/135_Candy.cpp"
+			],
+			[
+				"cons",
+				"algorithm-leetcode/106_ConstructBinaryTreefromInorderandPostorderTraversal.cpp"
+			],
+			[
+				"const",
+				"algorithm-leetcode/105_ConstructBinaryTreefromPreorderandInorderTraversal.cpp"
+			],
+			[
+				"rotast",
+				"algorithm-leetcode/060_RotateList.cpp"
+			],
+			[
+				"insert",
+				"algorithm-leetcode/056_InsertInterval.cpp"
+			],
+			[
+				"spiral",
+				"algorithm-leetcode/058_SpiralMatrixII.cpp"
+			],
+			[
+				"edit",
+				"algorithm-leetcode/072_EditDistance.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/zhengjiankang/Dropbox/research_papers/icip 2014/icip2014.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 147.0,
+	"status_bar_visible": false
+}
